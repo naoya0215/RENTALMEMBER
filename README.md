@@ -34,7 +34,7 @@ git cloneでURLを貼り付けてください。
 gtihub からダウンロードが行えます。
 
 cdで確認をする
-「cd member」を実行
+「cd member」を実行し
 続いてcomposerをインストールする。
 「composer install」を実行
 フロント側のライブラリーもインストールする。
