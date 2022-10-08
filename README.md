@@ -33,12 +33,13 @@ ADMINPEGEよりログインを行い、自分のSHOPアカウント(ショップ
 git cloneでURLを貼り付けてください。
 gtihub からダウンロードが行えます。
 
-cdで確認をする
+ターミナルもしくは
+コマンドプロンプトから
 「cd member」を実行し
-続いてcomposerをインストールする。
-「composer install」を実行
+composerをインストールする。
+「composer install」を実行。
 フロント側のライブラリーもインストールする。
-「npm install」を実行
+「npm install」を実行。
 コンパイルするために
 「npm run dev」を実行。
 
